@@ -6,3 +6,5 @@ Just matplotlib:
 ```
 pip install matplotlib
 ```
+# Run
+Modify ```_scratch.py``` to select another grid world scenario, and run that file.
